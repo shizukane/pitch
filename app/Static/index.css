@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
