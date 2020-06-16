@@ -13,9 +13,9 @@ A platform for sharing ideas in the neatest and most presentable way possible to
 ## Cloning and running
 Clone the application using git clone(this clones the app onto your device). In your terminal:
 
-* $ git clone https://github.com/habibahassan/pitch-project.git
+* $ git clone https://github.com/shizukane/pitch.git
 
-* $ cd pitch-project
+* $ cd pitch2
 ## Creating the virtual environment
 * $ python3.6 -m venv --without-pip virtual
 
