@@ -46,7 +46,7 @@ To run the tests for the class files:
 ## Support and contact information
 Feel free to reach out to the developer at:
   * 0794812973
-  *  Email:halimaadan92@gmail.com
+  *  Email:drizydarolle@gmail.com
 ## #  Licence
  licensed under the [MIT License](license)
  copyright(c) 2020 pitch-project
