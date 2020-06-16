@@ -45,7 +45,7 @@ To run the tests for the class files:
 * Login and authenticate	Email address and password	Saved and used for authentication
 ## Support and contact information
 Feel free to reach out to the developer at:
-  * 
+  * 0794812973
   *  Email:drizydarolle@gmail.com
 ## #  Licence
  licensed under the [MIT License](license)
